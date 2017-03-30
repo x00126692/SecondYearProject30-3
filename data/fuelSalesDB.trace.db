@@ -1,0 +1,3 @@
+2017-03-22 22:02:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "FUELSALESDB" not found; SQL statement:
+SELECT * FROM FUELSALESDB [42102-192]
